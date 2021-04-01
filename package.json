@@ -1,0 +1,22 @@
+{
+  "name": "windows_mailer",
+  "version": "1.0.0",
+  "description": "a windows exe mailer to open your mailbox",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurhidaylma/windows_mailer.git"
+  },
+  "author": "ilma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nurhidaylma/windows_mailer/issues"
+  },
+  "homepage": "https://github.com/nurhidaylma/windows_mailer#readme",
+  "devDependencies": {
+    "electron": "^12.0.2"
+  }
+}
